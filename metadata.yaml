@@ -1,0 +1,28 @@
+_repo: The-Spiritualists-and-the-Detectives_32007
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32007-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pinkerton, Allan
+    birthdate: 1819
+    deathdate: 1884
+    gutenberg_agent_id: '7587'
+    url: http://www.gutenberg.org/2009/agents/7587
+    wikipedia: http://en.wikipedia.org/wiki/Allan_Pinkerton
+description: ''
+gutenberg_issued: '2010-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32007'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detectives -- United States'
+- !lcc 'HV'
+- !lcsh 'Spiritualists -- United States'
+title: The Spiritualists and the Detectives
+url: http://www.gutenberg.org/ebooks/32007
